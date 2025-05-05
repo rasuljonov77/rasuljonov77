@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Salom! Men Arskonbek Rasuljonov
 
-<!--
-**rasuljonov77/rasuljonov77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Kompyuter fanlari (Computer Science) sohasiga qiziqaman. KAIST universitetiga hujjat topshiryapman va o‘z loyihalarim orqali o‘rganishni davom ettiryapman.
 
-Here are some ideas to get you started:
+## 🛠️ Mening Yo‘nalishlarim:
+- Python & C++ dasturlash
+- Algoritmlar va ma'lumot tuzilmalari
+- Veb dasturlash (HTML/CSS, JavaScript)
+- Git & GitHub asoslari
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Maqsadlarim:
+- Kuchli portfolio yaratish
+- Har oyda bitta loyiha yakunlash
+- KAIST’ga kirish uchun tayyorgarlik
+
+📫 Muloqot uchun: rasuljonovfx@gmail.com
